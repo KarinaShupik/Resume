@@ -1,0 +1,112 @@
+body{
+  font-size: 14px;
+  font-family: 'Montserrat', sans-serif;
+  margin: 0 ;
+  padding: 0;
+  background-color: #ffffff;
+}
+.main{
+  display: flex;
+  gap: 88px;
+  padding: 40px;
+  line-height: 24px;
+  width: 1200px;
+  margin: 0 auto;
+}
+.left_main{
+  background-color: #1E2939;
+  width: 350px;
+}
+img{
+  padding-top: 40px;
+  height: 354px;
+  width: 350px;
+}
+
+
+.contacts{
+  color: #ffffff;
+  line-height: 14px;
+}
+.num,
+.email{
+  font-weight: 700;
+}
+.num a{
+  text-decoration: none;
+  font-weight: 400;
+  opacity: 0.5;
+  color: #ffffff;
+  margin-left: 8px;
+}
+.email a{
+  font-weight: 400;
+  opacity: 0.5;
+  color: #ffffff;
+  margin-left: 8px;
+}
+.tech,
+.soft{
+  color: #ffffff;
+  margin-top: 50px;
+}
+.tech h2,
+.soft h2{
+  margin-bottom: 10px;
+}
+.sidebar{
+  padding-left: 40px;
+  margin-top: 50px;
+}
+.item{
+  padding: 0;
+  margin-left: 17px;
+  color: #FB6D3A;
+}
+.item span{
+  color: rgb(255, 255, 255);
+}
+.right_main{
+  width: 600px;
+  text-align: justify;
+}
+h1{
+  font-weight: 700;
+  font-size: 45px;
+}
+h2{
+  font-weight: 700;
+  font-size: 22px;
+  line-height: 27px;
+}
+h3{
+  font-size: 14px;
+  font-weight: 700;
+}
+h5{
+  font-weight: 400;
+  font-size: 12px;
+  color: #A8A8A8;
+  line-height: 15px;
+}
+.work_exp span{
+  color: #FB6D3A;
+}
+.manager span{
+  color: #FB6D3A;
+}
+.manager_2 span{
+  color: #FB6D3A;
+}
+.projects a,
+.projects span{
+  text-decoration: none;
+  color: #595959;
+  font-weight: 400;
+}
+.projects ol{
+  font-weight: 700;
+}
+.education h3{
+  color: #FB6D3A;
+}
